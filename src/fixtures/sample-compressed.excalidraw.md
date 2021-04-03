@@ -1,0 +1,20 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+
+## Text Elements
+Hello World ^text1
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MSgw4CxAHSp6AWzJJMMJTEZgaCANqg8CEPhiowARlWRYx0+fSMA5utXIEFgAyfyED9/IiPDB+VgCQfhhsJ0F/HxAaMHx6AGsYAGF6THp8YwBiCxhCwtUAI3RUFKdkzkZcTOzcxDz0AFZcAA4AMy7VLuxMTABlSFdEDhlVROS0gHVg0Pg2Ey4YxhgaXXh47BoAERh1MBhcBC6sGhgAX1JDU8Rj5EtraD5wFDA3DwAWeL94CwAZniQVwIQ8LHikWisXgv3Ij0+iAAEodsgACWY5TCnciEIgAFQ+xlRg3omOxuJAOWi2EYWCJTxJaPJWPwOL6TDAQ2wAC8+JDyF0uQAxdBKAb/CwIj4AQRwTmYiF42moqio+DA2Gk8uiSpAEtwuFc5F2ByOJzOF2utxARkQ6HwySIVgRr2MjudX3gwL+HlaIIWcXI0JiSPi01SGSyOXyxSKcFN+0OMGO93OmEuVwAuuR0FAoCN0McEKAKNgYEQAEIVKo1OoNWPNHot3o3ED9dRbYBXK5AA===
+```
+%%

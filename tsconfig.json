@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2019",
+    "lib": [
+      "ES2019",
+      "WebWorker"
+    ],
+    "outDir": "out",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "rootDir": "src"
+  },
+  "exclude": [
+    ".vscode-test",
+    "**/src/excalidraw/**",
+    "node_modules",
+    "webview",
+    "vitest.config.ts",
+    "src/**/*.test.ts",
+    "src/__mocks__"
+  ]
+}
